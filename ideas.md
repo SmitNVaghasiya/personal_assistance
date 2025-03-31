@@ -1,0 +1,1 @@
+for websearch use ai similar to perplexity for the free tier
